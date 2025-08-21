@@ -21,10 +21,9 @@ cd task_manager
 
 2.Создать виртуальное окружение и установить зависимости:
 
-python -m venv venv
-source venv/bin/activate  # для Linux/Mac
-venv\Scripts\activate     # для Windows
-pip install -r requirements.txt
+    python -m venv venv
+    source venv/bin/activate
+    pip install -r requirements.txt
 
 3. Запуск сервера:
 
